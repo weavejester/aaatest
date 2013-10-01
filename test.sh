@@ -1,8 +1,8 @@
 #!/bin/sh
 
-;; NOTE: This is a test
+# NOTE: This is a test
 
-;; TODO: Add argument
+# TODO: Add argument
 echo Hello World
 
-;; FIXME: *explicit* return value
+# FIXME: *explicit* return value
