@@ -6,3 +6,5 @@ aaatest
 Temporary test project for Clojure Cup
 
 Some test
+
+Another test
